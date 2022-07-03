@@ -151,7 +151,7 @@ int main()
 
     // assign() ----------------------------------------------------------------------------------------
     vector<int> v2;
-    v2.assign(v.begin() + 5, v.end() - 5); // Assigns value of a vector to another vector
+    v2.assign(v.begin() + 5, v.end() - 5); // Assigns value of a vector to another vector, cop vector
     cout << "v2 after assigning values of v: ";
     for (int i : v2)
     {
