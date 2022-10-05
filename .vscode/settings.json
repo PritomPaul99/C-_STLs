@@ -1,5 +1,9 @@
 {
     "cSpell.words": [
         "Akhi"
-    ]
+    ],
+    "files.associations": {
+        "limits": "cpp",
+        "iostream": "cpp"
+    }
 }
